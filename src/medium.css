@@ -1,0 +1,11 @@
+*{
+    background-color: gray;
+}
+img{
+    height:250px;
+    width: 250px;
+}
+input{
+    color: black;
+    background-color: aliceblue;
+}
